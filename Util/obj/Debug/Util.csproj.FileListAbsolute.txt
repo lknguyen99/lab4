@@ -1,0 +1,4 @@
+D:\TEST\QuanLyKho\Util\bin\Debug\Util.dll
+D:\TEST\QuanLyKho\Util\bin\Debug\Util.pdb
+D:\TEST\QuanLyKho\Util\obj\Debug\Util.dll
+D:\TEST\QuanLyKho\Util\obj\Debug\Util.pdb

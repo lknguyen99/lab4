@@ -1,0 +1,100 @@
+D:\TEST\QuanLyKho\Util\bin\Debug\Util.dll.config
+D:\TEST\QuanLyKho\Util\bin\Debug\Util.dll
+D:\TEST\QuanLyKho\Util\bin\Debug\Util.pdb
+D:\TEST\QuanLyKho\Util\bin\Debug\en\Util.resources.dll
+D:\TEST\QuanLyKho\Util\obj\Debug\QuanlyKho.Util.ResourceUtil.resources
+D:\TEST\QuanLyKho\Util\obj\Debug\QuanlyKho.Util.ResourceUtil.en.resources
+D:\TEST\QuanLyKho\Util\obj\Debug\QuanLyKho.Util.csproj.GenerateResource.Cache
+D:\TEST\QuanLyKho\Util\obj\Debug\en\Util.resources.dll
+D:\TEST\QuanLyKho\Util\obj\Debug\Util.dll
+D:\TEST\QuanLyKho\Util\obj\Debug\Util.pdb
+D:\TEST\QuanLyKho_AnhPhuong\Util\bin\Debug\Util.dll.config
+D:\TEST\QuanLyKho_AnhPhuong\Util\bin\Debug\Util.dll
+D:\TEST\QuanLyKho_AnhPhuong\Util\bin\Debug\Util.pdb
+D:\TEST\QuanLyKho_AnhPhuong\Util\bin\Debug\en\Util.resources.dll
+D:\TEST\QuanLyKho_AnhPhuong\Util\obj\Debug\QuanlyKho.Util.ResourceUtil.resources
+D:\TEST\QuanLyKho_AnhPhuong\Util\obj\Debug\QuanlyKho.Util.ResourceUtil.en.resources
+D:\TEST\QuanLyKho_AnhPhuong\Util\obj\Debug\QuanLyKho.Util.csproj.GenerateResource.Cache
+D:\TEST\QuanLyKho_AnhPhuong\Util\obj\Debug\en\Util.resources.dll
+D:\TEST\QuanLyKho_AnhPhuong\Util\obj\Debug\Util.dll
+D:\TEST\QuanLyKho_AnhPhuong\Util\obj\Debug\Util.pdb
+D:\TEST\QuanLyKho2 - Copy\Util\bin\Debug\Util.dll.config
+D:\TEST\QuanLyKho2 - Copy\Util\bin\Debug\Util.dll
+D:\TEST\QuanLyKho2 - Copy\Util\bin\Debug\Util.pdb
+D:\TEST\QuanLyKho2 - Copy\Util\bin\Debug\en\Util.resources.dll
+D:\TEST\QuanLyKho2 - Copy\Util\obj\Debug\QuanlyKho.Util.ResourceUtil.resources
+D:\TEST\QuanLyKho2 - Copy\Util\obj\Debug\QuanlyKho.Util.ResourceUtil.en.resources
+D:\TEST\QuanLyKho2 - Copy\Util\obj\Debug\QuanLyKho.Util.csproj.GenerateResource.Cache
+D:\TEST\QuanLyKho2 - Copy\Util\obj\Debug\en\Util.resources.dll
+D:\TEST\QuanLyKho2 - Copy\Util\obj\Debug\Util.dll
+D:\TEST\QuanLyKho2 - Copy\Util\obj\Debug\Util.pdb
+D:\TEST\QuanLyKho2 - Copy\Util\obj\Debug\QuanLyKho.Util.csprojResolveAssemblyReference.cache
+D:\Share\test\QuanLyKho2 - Copy\Util\bin\Debug\Util.dll.config
+D:\Share\test\QuanLyKho2 - Copy\Util\bin\Debug\Util.dll
+D:\Share\test\QuanLyKho2 - Copy\Util\bin\Debug\Util.pdb
+D:\Share\test\QuanLyKho2 - Copy\Util\bin\Debug\en\Util.resources.dll
+D:\Share\test\QuanLyKho2 - Copy\Util\obj\Debug\QuanLyKho.Util.csprojAssemblyReference.cache
+D:\Share\test\QuanLyKho2 - Copy\Util\obj\Debug\QuanlyKho.Util.ResourceUtil.resources
+D:\Share\test\QuanLyKho2 - Copy\Util\obj\Debug\QuanlyKho.Util.ResourceUtil.en.resources
+D:\Share\test\QuanLyKho2 - Copy\Util\obj\Debug\QuanLyKho.Util.csproj.GenerateResource.cache
+D:\Share\test\QuanLyKho2 - Copy\Util\obj\Debug\QuanLyKho.Util.csproj.CoreCompileInputs.cache
+D:\Share\test\QuanLyKho2 - Copy\Util\obj\Debug\en\Util.resources.dll
+D:\Share\test\QuanLyKho2 - Copy\Util\obj\Debug\Util.dll
+D:\Share\test\QuanLyKho2 - Copy\Util\obj\Debug\Util.pdb
+D:\Share\QuanLyKho2 - Copy\Util\bin\Debug\Util.dll.config
+D:\Share\QuanLyKho2 - Copy\Util\bin\Debug\Util.dll
+D:\Share\QuanLyKho2 - Copy\Util\bin\Debug\Util.pdb
+D:\Share\QuanLyKho2 - Copy\Util\bin\Debug\en\Util.resources.dll
+D:\Share\QuanLyKho2 - Copy\Util\obj\Debug\QuanLyKho.Util.csprojResolveAssemblyReference.cache
+D:\Share\QuanLyKho2 - Copy\Util\obj\Debug\QuanlyKho.Util.ResourceUtil.resources
+D:\Share\QuanLyKho2 - Copy\Util\obj\Debug\QuanlyKho.Util.ResourceUtil.en.resources
+D:\Share\QuanLyKho2 - Copy\Util\obj\Debug\QuanLyKho.Util.csproj.GenerateResource.Cache
+D:\Share\QuanLyKho2 - Copy\Util\obj\Debug\en\Util.resources.dll
+D:\Share\QuanLyKho2 - Copy\Util\obj\Debug\Util.dll
+D:\Share\QuanLyKho2 - Copy\Util\obj\Debug\Util.pdb
+D:\Projects\QuanLyKho2 - Copy\Util\bin\Debug\Util.dll.config
+D:\Projects\QuanLyKho2 - Copy\Util\bin\Debug\Util.dll
+D:\Projects\QuanLyKho2 - Copy\Util\bin\Debug\Util.pdb
+D:\Projects\QuanLyKho2 - Copy\Util\bin\Debug\en\Util.resources.dll
+D:\Projects\QuanLyKho2 - Copy\Util\obj\Debug\QuanlyKho.Util.ResourceUtil.resources
+D:\Projects\QuanLyKho2 - Copy\Util\obj\Debug\QuanlyKho.Util.ResourceUtil.en.resources
+D:\Projects\QuanLyKho2 - Copy\Util\obj\Debug\QuanLyKho.Util.csproj.GenerateResource.Cache
+D:\Projects\QuanLyKho2 - Copy\Util\obj\Debug\en\Util.resources.dll
+D:\Projects\QuanLyKho2 - Copy\Util\obj\Debug\Util.dll
+D:\Projects\QuanLyKho2 - Copy\Util\obj\Debug\Util.pdb
+D:\Projects\QuanLyKho2 - Copy\Util\obj\Debug\QuanLyKho.Util.csprojAssemblyReference.cache
+D:\Downdloads\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Util\bin\Debug\Util.dll.config
+D:\Downdloads\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Util\bin\Debug\Util.dll
+D:\Downdloads\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Util\bin\Debug\Util.pdb
+D:\Downdloads\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Util\bin\Debug\en\Util.resources.dll
+D:\Downdloads\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Util\obj\Debug\QuanLyKho.Util.csprojResolveAssemblyReference.cache
+D:\Downdloads\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Util\obj\Debug\QuanlyKho.Util.ResourceUtil.resources
+D:\Downdloads\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Util\obj\Debug\QuanlyKho.Util.ResourceUtil.en.resources
+D:\Downdloads\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Util\obj\Debug\QuanLyKho.Util.csproj.GenerateResource.Cache
+D:\Downdloads\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Util\obj\Debug\en\Util.resources.dll
+D:\Downdloads\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Util\obj\Debug\Util.dll
+D:\Downdloads\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Util\obj\Debug\Util.pdb
+C:\Users\NGUYEN\Downloads\quanlykho\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Util\bin\Debug\Util.dll.config
+C:\Users\NGUYEN\Downloads\quanlykho\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Util\bin\Debug\Util.dll
+C:\Users\NGUYEN\Downloads\quanlykho\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Util\bin\Debug\Util.pdb
+C:\Users\NGUYEN\Downloads\quanlykho\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Util\bin\Debug\en\Util.resources.dll
+C:\Users\NGUYEN\Downloads\quanlykho\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Util\obj\Debug\QuanLyKho.Util.csprojAssemblyReference.cache
+C:\Users\NGUYEN\Downloads\quanlykho\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Util\obj\Debug\QuanlyKho.Util.ResourceUtil.resources
+C:\Users\NGUYEN\Downloads\quanlykho\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Util\obj\Debug\QuanlyKho.Util.ResourceUtil.en.resources
+C:\Users\NGUYEN\Downloads\quanlykho\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Util\obj\Debug\QuanLyKho.Util.csproj.GenerateResource.cache
+C:\Users\NGUYEN\Downloads\quanlykho\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Util\obj\Debug\QuanLyKho.Util.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN\Downloads\quanlykho\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Util\obj\Debug\en\Util.resources.dll
+C:\Users\NGUYEN\Downloads\quanlykho\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Util\obj\Debug\Util.dll
+C:\Users\NGUYEN\Downloads\quanlykho\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Util\obj\Debug\Util.pdb
+C:\Users\NGUYEN\Downloads\quanlykho-CodeFist\QuanLyKhohang\QuanLyKhohang\Util\bin\Debug\Util.dll.config
+C:\Users\NGUYEN\Downloads\quanlykho-CodeFist\QuanLyKhohang\QuanLyKhohang\Util\bin\Debug\Util.dll
+C:\Users\NGUYEN\Downloads\quanlykho-CodeFist\QuanLyKhohang\QuanLyKhohang\Util\bin\Debug\Util.pdb
+C:\Users\NGUYEN\Downloads\quanlykho-CodeFist\QuanLyKhohang\QuanLyKhohang\Util\bin\Debug\en\Util.resources.dll
+C:\Users\NGUYEN\Downloads\quanlykho-CodeFist\QuanLyKhohang\QuanLyKhohang\Util\obj\Debug\QuanlyKho.Util.ResourceUtil.resources
+C:\Users\NGUYEN\Downloads\quanlykho-CodeFist\QuanLyKhohang\QuanLyKhohang\Util\obj\Debug\QuanlyKho.Util.ResourceUtil.en.resources
+C:\Users\NGUYEN\Downloads\quanlykho-CodeFist\QuanLyKhohang\QuanLyKhohang\Util\obj\Debug\QuanLyKho.Util.csproj.GenerateResource.cache
+C:\Users\NGUYEN\Downloads\quanlykho-CodeFist\QuanLyKhohang\QuanLyKhohang\Util\obj\Debug\QuanLyKho.Util.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN\Downloads\quanlykho-CodeFist\QuanLyKhohang\QuanLyKhohang\Util\obj\Debug\en\Util.resources.dll
+C:\Users\NGUYEN\Downloads\quanlykho-CodeFist\QuanLyKhohang\QuanLyKhohang\Util\obj\Debug\Util.dll
+C:\Users\NGUYEN\Downloads\quanlykho-CodeFist\QuanLyKhohang\QuanLyKhohang\Util\obj\Debug\Util.pdb
+C:\Users\NGUYEN\Downloads\quanlykho-CodeFist\QuanLyKhohang\QuanLyKhohang\Util\obj\Debug\QuanLyKho.Util.csprojAssemblyReference.cache

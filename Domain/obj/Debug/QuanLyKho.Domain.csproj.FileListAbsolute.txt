@@ -1,0 +1,95 @@
+D:\TEST\QuanLyKho\Domain\bin\Debug\Domain.dll.config
+D:\TEST\QuanLyKho\Domain\bin\Debug\Domain.dll
+D:\TEST\QuanLyKho\Domain\bin\Debug\Domain.pdb
+D:\TEST\QuanLyKho\Domain\bin\Debug\log4net.dll
+D:\TEST\QuanLyKho\Domain\bin\Debug\Util.dll
+D:\TEST\QuanLyKho\Domain\bin\Debug\Util.pdb
+D:\TEST\QuanLyKho\Domain\bin\Debug\en\Util.resources.dll
+D:\TEST\QuanLyKho\Domain\obj\Debug\QuanLyKho.Domain.csprojResolveAssemblyReference.cache
+D:\TEST\QuanLyKho\Domain\obj\Debug\Domain.dll
+D:\TEST\QuanLyKho\Domain\obj\Debug\Domain.pdb
+D:\TEST\QuanLyKho_AnhPhuong\Domain\bin\Debug\Domain.dll.config
+D:\TEST\QuanLyKho_AnhPhuong\Domain\bin\Debug\Domain.dll
+D:\TEST\QuanLyKho_AnhPhuong\Domain\bin\Debug\Domain.pdb
+D:\TEST\QuanLyKho_AnhPhuong\Domain\bin\Debug\log4net.dll
+D:\TEST\QuanLyKho_AnhPhuong\Domain\bin\Debug\Util.dll
+D:\TEST\QuanLyKho_AnhPhuong\Domain\bin\Debug\Util.pdb
+D:\TEST\QuanLyKho_AnhPhuong\Domain\bin\Debug\en\Util.resources.dll
+D:\TEST\QuanLyKho_AnhPhuong\Domain\obj\Debug\QuanLyKho.Domain.csprojResolveAssemblyReference.cache
+D:\TEST\QuanLyKho_AnhPhuong\Domain\obj\Debug\Domain.dll
+D:\TEST\QuanLyKho_AnhPhuong\Domain\obj\Debug\Domain.pdb
+D:\TEST\QuanLyKho2 - Copy\Domain\obj\Debug\QuanLyKho.Domain.csprojResolveAssemblyReference.cache
+D:\TEST\QuanLyKho2 - Copy\Domain\obj\Debug\Domain.dll
+D:\TEST\QuanLyKho2 - Copy\Domain\obj\Debug\Domain.pdb
+D:\TEST\QuanLyKho2 - Copy\Domain\bin\Debug\Domain.dll.config
+D:\TEST\QuanLyKho2 - Copy\Domain\bin\Debug\Domain.dll
+D:\TEST\QuanLyKho2 - Copy\Domain\bin\Debug\Domain.pdb
+D:\TEST\QuanLyKho2 - Copy\Domain\bin\Debug\log4net.dll
+D:\TEST\QuanLyKho2 - Copy\Domain\bin\Debug\Util.dll
+D:\TEST\QuanLyKho2 - Copy\Domain\bin\Debug\Util.pdb
+D:\TEST\QuanLyKho2 - Copy\Domain\bin\Debug\en\Util.resources.dll
+D:\Share\test\QuanLyKho2 - Copy\Domain\bin\Debug\Domain.dll.config
+D:\Share\test\QuanLyKho2 - Copy\Domain\bin\Debug\Domain.dll
+D:\Share\test\QuanLyKho2 - Copy\Domain\bin\Debug\Domain.pdb
+D:\Share\test\QuanLyKho2 - Copy\Domain\bin\Debug\Util.dll
+D:\Share\test\QuanLyKho2 - Copy\Domain\bin\Debug\Util.pdb
+D:\Share\test\QuanLyKho2 - Copy\Domain\bin\Debug\Util.dll.config
+D:\Share\test\QuanLyKho2 - Copy\Domain\bin\Debug\en\Util.resources.dll
+D:\Share\test\QuanLyKho2 - Copy\Domain\obj\Debug\QuanLyKho.Domain.csprojAssemblyReference.cache
+D:\Share\test\QuanLyKho2 - Copy\Domain\obj\Debug\QuanLyKho.Domain.csproj.CoreCompileInputs.cache
+D:\Share\test\QuanLyKho2 - Copy\Domain\obj\Debug\QuanLyKho.Domain.csproj.CopyComplete
+D:\Share\test\QuanLyKho2 - Copy\Domain\obj\Debug\Domain.dll
+D:\Share\test\QuanLyKho2 - Copy\Domain\obj\Debug\Domain.pdb
+D:\Share\QuanLyKho2 - Copy\Domain\bin\Debug\Domain.dll.config
+D:\Share\QuanLyKho2 - Copy\Domain\bin\Debug\Domain.dll
+D:\Share\QuanLyKho2 - Copy\Domain\bin\Debug\Domain.pdb
+D:\Share\QuanLyKho2 - Copy\Domain\bin\Debug\Util.dll
+D:\Share\QuanLyKho2 - Copy\Domain\bin\Debug\Util.pdb
+D:\Share\QuanLyKho2 - Copy\Domain\bin\Debug\en\Util.resources.dll
+D:\Share\QuanLyKho2 - Copy\Domain\obj\Debug\QuanLyKho.Domain.csprojResolveAssemblyReference.cache
+D:\Share\QuanLyKho2 - Copy\Domain\obj\Debug\Domain.dll
+D:\Share\QuanLyKho2 - Copy\Domain\obj\Debug\Domain.pdb
+D:\Projects\QuanLyKho2 - Copy\Domain\bin\Debug\Domain.dll.config
+D:\Projects\QuanLyKho2 - Copy\Domain\bin\Debug\Domain.dll
+D:\Projects\QuanLyKho2 - Copy\Domain\bin\Debug\Domain.pdb
+D:\Projects\QuanLyKho2 - Copy\Domain\bin\Debug\Util.dll
+D:\Projects\QuanLyKho2 - Copy\Domain\bin\Debug\Util.pdb
+D:\Projects\QuanLyKho2 - Copy\Domain\bin\Debug\en\Util.resources.dll
+D:\Projects\QuanLyKho2 - Copy\Domain\obj\Debug\Domain.dll
+D:\Projects\QuanLyKho2 - Copy\Domain\obj\Debug\Domain.pdb
+D:\Projects\QuanLyKho2 - Copy\Domain\bin\Debug\Util.dll.config
+D:\Projects\QuanLyKho2 - Copy\Domain\obj\Debug\QuanLyKho.Domain.csprojAssemblyReference.cache
+D:\Projects\QuanLyKho2 - Copy\Domain\obj\Debug\QuanLyKho.Domain.csproj.CopyComplete
+D:\Downdloads\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Domain\bin\Debug\Domain.dll.config
+D:\Downdloads\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Domain\bin\Debug\Domain.dll
+D:\Downdloads\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Domain\bin\Debug\Domain.pdb
+D:\Downdloads\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Domain\bin\Debug\Util.dll
+D:\Downdloads\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Domain\bin\Debug\Util.pdb
+D:\Downdloads\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Domain\bin\Debug\en\Util.resources.dll
+D:\Downdloads\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Domain\obj\Debug\QuanLyKho.Domain.csprojResolveAssemblyReference.cache
+D:\Downdloads\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Domain\obj\Debug\Domain.dll
+D:\Downdloads\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Domain\obj\Debug\Domain.pdb
+C:\Users\NGUYEN\Downloads\quanlykho\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Domain\bin\Debug\Domain.dll.config
+C:\Users\NGUYEN\Downloads\quanlykho\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Domain\bin\Debug\Domain.dll
+C:\Users\NGUYEN\Downloads\quanlykho\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Domain\bin\Debug\Domain.pdb
+C:\Users\NGUYEN\Downloads\quanlykho\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Domain\bin\Debug\Util.dll
+C:\Users\NGUYEN\Downloads\quanlykho\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Domain\bin\Debug\Util.pdb
+C:\Users\NGUYEN\Downloads\quanlykho\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Domain\bin\Debug\Util.dll.config
+C:\Users\NGUYEN\Downloads\quanlykho\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Domain\bin\Debug\en\Util.resources.dll
+C:\Users\NGUYEN\Downloads\quanlykho\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Domain\obj\Debug\QuanLyKho.Domain.csprojAssemblyReference.cache
+C:\Users\NGUYEN\Downloads\quanlykho\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Domain\obj\Debug\QuanLyKho.Domain.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN\Downloads\quanlykho\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Domain\obj\Debug\QuanLyKho.Domain.csproj.CopyComplete
+C:\Users\NGUYEN\Downloads\quanlykho\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Domain\obj\Debug\Domain.dll
+C:\Users\NGUYEN\Downloads\quanlykho\QuanLyKho2 - Copy\QuanLyKho2 - Copy\Domain\obj\Debug\Domain.pdb
+C:\Users\NGUYEN\Downloads\quanlykho-CodeFist\QuanLyKhohang\QuanLyKhohang\Domain\bin\Debug\Domain.dll.config
+C:\Users\NGUYEN\Downloads\quanlykho-CodeFist\QuanLyKhohang\QuanLyKhohang\Domain\bin\Debug\Domain.dll
+C:\Users\NGUYEN\Downloads\quanlykho-CodeFist\QuanLyKhohang\QuanLyKhohang\Domain\bin\Debug\Domain.pdb
+C:\Users\NGUYEN\Downloads\quanlykho-CodeFist\QuanLyKhohang\QuanLyKhohang\Domain\bin\Debug\Util.dll
+C:\Users\NGUYEN\Downloads\quanlykho-CodeFist\QuanLyKhohang\QuanLyKhohang\Domain\bin\Debug\Util.pdb
+C:\Users\NGUYEN\Downloads\quanlykho-CodeFist\QuanLyKhohang\QuanLyKhohang\Domain\bin\Debug\Util.dll.config
+C:\Users\NGUYEN\Downloads\quanlykho-CodeFist\QuanLyKhohang\QuanLyKhohang\Domain\bin\Debug\en\Util.resources.dll
+C:\Users\NGUYEN\Downloads\quanlykho-CodeFist\QuanLyKhohang\QuanLyKhohang\Domain\obj\Debug\QuanLyKho.Domain.csprojAssemblyReference.cache
+C:\Users\NGUYEN\Downloads\quanlykho-CodeFist\QuanLyKhohang\QuanLyKhohang\Domain\obj\Debug\QuanLyKho.Domain.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN\Downloads\quanlykho-CodeFist\QuanLyKhohang\QuanLyKhohang\Domain\obj\Debug\QuanLyKho.Domain.csproj.CopyComplete
+C:\Users\NGUYEN\Downloads\quanlykho-CodeFist\QuanLyKhohang\QuanLyKhohang\Domain\obj\Debug\Domain.dll
+C:\Users\NGUYEN\Downloads\quanlykho-CodeFist\QuanLyKhohang\QuanLyKhohang\Domain\obj\Debug\Domain.pdb
